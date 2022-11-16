@@ -21,15 +21,7 @@ circle1 = (
     file="circle.png"
 )
 
-bool_cross_check1 = True
-bool_cross_check2 = True
-bool_cross_check3 = True
-bool_cross_check4 = True
-bool_cross_check5 = True
-bool_cross_check6 = True
-bool_cross_check7 = True
-bool_cross_check8 = True
-bool_cross_check9 = True
+bool_cross_check1=bool_cross_check2=bool_cross_check3=bool_cross_check4=bool_cross_check5=bool_cross_check6=bool_cross_check7=bool_cross_check8=bool_cross_check9=True
 
 
 fin1 = "1"
