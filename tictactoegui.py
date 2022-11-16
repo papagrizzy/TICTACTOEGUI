@@ -9,16 +9,16 @@ tictactoe.minsize(690, 690)
 tictactoe.config(background="black")
 tictactoe.title("Tic-Tac-Toe ~ Pritish")
 
-ph1 = PhotoImage(file="/home/kraken/Desktop/pyrate/Assets/Untitled.png")
+ph1 = PhotoImage(file="Untitled.png")
 cross1 = (
     cross2
 ) = cross3 = cross4 = cross5 = cross6 = cross7 = cross8 = cross9 = PhotoImage(
-    file="/home/kraken/Desktop/pyrate/Assets/cross.png"
+    file="cross.png"
 )
 circle1 = (
     circle2
 ) = circle3 = circle4 = circle5 = circle6 = circle7 = circle8 = circle9 = PhotoImage(
-    file="/home/kraken/Desktop/pyrate/Assets/circle.png"
+    file="circle.png"
 )
 
 bool_cross_check1 = True
